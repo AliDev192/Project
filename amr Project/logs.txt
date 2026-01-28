@@ -1,0 +1,31 @@
+[2026-01-27 11:50:06.648347] LOGIN FAILED | user=amr
+[2026-01-27 11:52:07.097237] LOGIN SUCCESS | user=admin | session=None
+[2026-01-27 11:52:07.113216] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[2026-01-27 12:05:55.207959] LOGIN SUCCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[2026-01-27 12:05:55.223509] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjwcw.ahpZPlMgzoM-KSyeUckii_FucKc
+[2026-01-27 12:18:15.812775] LOGIN SUCCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjwcw.ahpZPlMgzoM-KSyeUckii_FucKc
+[2026-01-27 12:18:15.832443] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjzVw.8UiuiTzn8YD1-vZK5kzyRlGm9pY
+[2026-01-27 12:22:54.889606] LOGIN SUCCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjzVw.8UiuiTzn8YD1-vZK5kzyRlGm9pY
+[2026-01-27 12:22:54.912039] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXj0bg.xmCeb50RjLN85ntOnG5E3FDnx8s
+[2026-01-27 12:27:57.153887] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjzVw.8UiuiTzn8YD1-vZK5kzyRlGm9pY
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:28:08.966870] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjzVw.8UiuiTzn8YD1-vZK5kzyRlGm9pY
+[ATTACKER] Reused stolen session cookie
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:28:40.500120] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjzVw.8UiuiTzn8YD1-vZK5kzyRlGm9pY
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:30:01.256328] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:31:05.302238] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[ATTACKER] Reused stolen session cookie
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:31:48.050582] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[ATTACKER] Reused stolen session cookie
+[2026-01-27 12:33:14.173761] LOGIN SUCCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXj0bg.xmCeb50RjLN85ntOnG5E3FDnx8s
+[2026-01-27 12:33:14.192005] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXj22g.KaQXabQok64x8k-3RDF5xabRM0U
+[2026-01-27 12:33:52.119337] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXjtNw.OmyxCNJS_XPd1PYm1HJ02Tcn0fs
+[ATTACKER] Reused stolen session cookie
+[2026-01-28 03:26:27.385277] LOGIN SUCCESS | user=admin | session=None
+[2026-01-28 03:26:27.435345] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXnIMw.eLLVPKNq-M-fBur88Z256xR4XMc
+[2026-01-28 03:27:57.948642] DASHBOARD ACCESS | user=admin | session=eyJ1c2VyIjoiYWRtaW4ifQ.aXnIMw.eLLVPKNq-M-fBur88Z256xR4XMc
+[ATTACKER] Reused stolen session cookie
